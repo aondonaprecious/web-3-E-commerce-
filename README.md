@@ -7,7 +7,7 @@
 
 Radikal is an industry-standard, production-ready Web3 marketplace prototype. It bridges the gap between traditional e-commerce flows and decentralized blockchain interactions, wrapped in a premium, glassmorphism UI.
 
-> **View Live Demo:** [Insert your deployed link here]
+> **View Live Demo:** [Insert your deployed link here still yet to deploy]
 
 ---
 
@@ -48,5 +48,5 @@ To run this project locally:
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/radikal-web3-store.git](https://github.com/YOUR_USERNAME/radikal-web3-store.git)
+git clone [https://github.com/aondonaprecious/radikal-web3-store.git](https://github.com/aondonaprecious/radikal-web3-store.git)
 cd radikal-web3-store
